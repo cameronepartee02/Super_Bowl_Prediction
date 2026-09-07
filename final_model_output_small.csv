@@ -1,0 +1,22 @@
+game_id,price_usd,days_out_approx,platform_SeatGeek,platform_StubHub,platform_TickPick,platform_TicketIQ,home_qb_repeat_appearance,away_qb_repeat_appearance,home_team_appearance_no,away_team_appearance_no,spread_line
+Super Bowl LII,5373.0,13.0,True,False,False,False,False,False,10,3,4.5
+Super Bowl LIII,4993.0,13.0,True,False,False,False,False,True,4,11,-2.0
+Super Bowl LIII,4380.0,1.0,False,True,False,False,False,True,4,11,-2.0
+Super Bowl LIII,4636.0,5.0,False,True,False,False,False,True,4,11,-2.0
+Super Bowl LIV,9031.0,0.0,True,False,False,False,False,False,3,7,1.5
+Super Bowl LIV,6870.5,13.0,True,False,False,False,False,False,3,7,1.5
+Super Bowl LV,12477.0,0.0,False,False,False,True,True,True,2,4,-3.0
+Super Bowl LV,10224.5,13.0,True,False,False,False,True,True,2,4,-3.0
+Super Bowl LVI,8102.0,6.0,True,False,False,False,False,False,3,5,-4.5
+Super Bowl LVI,8869.0,0.0,False,True,False,False,False,False,3,5,-4.5
+Super Bowl LVI,10322.0,13.0,True,False,False,False,False,False,3,5,-4.5
+Super Bowl LVI,9635.0,5.0,True,False,False,False,False,False,3,5,-4.5
+Super Bowl LVII,8907.0,13.0,True,False,False,False,False,True,4,5,1.0
+Super Bowl LVIII,12082.0,13.0,True,False,False,False,True,False,6,8,-1.5
+Super Bowl LVIII,9300.0,13.0,False,True,False,False,True,False,6,8,-1.5
+Super Bowl LVIII,12240.0,9.0,True,False,False,False,True,False,6,8,-1.5
+Super Bowl LVIII,8600.0,7.0,False,True,False,False,True,False,6,8,-1.5
+Super Bowl LIX,6552.0,3.0,False,False,True,False,True,True,5,7,-1.5
+Super Bowl LIX,7299.0,3.0,False,True,False,False,True,True,5,7,-1.5
+Super Bowl LX,9913.0,9.0,True,False,False,False,False,False,12,4,-4.5
+Super Bowl LX,7694.0,9.0,False,False,True,False,False,False,12,4,-4.5
